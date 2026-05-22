@@ -1,0 +1,10 @@
+The async library provides powerful utilities for asynchronous operations.
+async.series executes tasks one after another.
+async.parallel executes multiple tasks simultaneously.
+async.waterfall passes results from one task to another.
+These methods were heavily used before async/await became popular.
+Even today, some legacy projects still use the async package.
+Managing callbacks manually can become difficult.
+The async library helps organize asynchronous code cleanly.
+Node.js developers often combine fs and async utilities.
+Error handling is important in asynchronous applications.

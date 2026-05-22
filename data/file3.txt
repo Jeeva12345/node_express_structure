@@ -1,0 +1,10 @@
+Streams in Node.js help process data efficiently.
+Readable streams are used to read data chunk by chunk.
+Writable streams are used to write data progressively.
+Pipe is commonly used to transfer data between streams.
+Large file handling becomes memory efficient with streams.
+Backpressure occurs when data is written faster than consumed.
+The drain event helps manage writable stream buffers.
+Node.js internally uses an event loop.
+The event loop enables non-blocking operations.
+Understanding streams is essential for backend development.

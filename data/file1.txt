@@ -1,0 +1,10 @@
+Node.js is a JavaScript runtime built on Chrome's V8 engine.
+It allows developers to run JavaScript outside the browser.
+Node.js uses an event-driven, non-blocking I/O model.
+This makes it lightweight and efficient.
+It is commonly used for backend development.
+Express.js is one of the most popular Node.js frameworks.
+File system operations can be done using the fs module.
+Streams are useful for handling large files.
+Asynchronous programming is a core concept in Node.js.
+Callbacks, Promises, and async/await are widely used.

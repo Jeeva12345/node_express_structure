@@ -1,0 +1,21 @@
+Welcome to the async.waterfall demonstration.
+
+This file contains sample text that will be read,
+modified, and written into another file.
+
+The waterfall method is useful when:
+1. One task depends on the previous task result.
+2. Data must flow sequentially between functions.
+3. Multiple asynchronous operations need coordination.
+
+Example workflow:
+Read File
+↓
+Transform Data
+↓
+Write File
+↓
+Append Extra Content
+
+Node.js asynchronous programming is powerful and scalable.
+Learning async patterns improves backend development skills.
