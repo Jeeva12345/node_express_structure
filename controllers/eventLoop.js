@@ -61,7 +61,7 @@ for (let i = 0; i < 100000000; i++) {
         console.log("start of loop")
     }
     if(i === 99999999){
-        console.log("end of loop")
+        console.log("end of loop");
     }
 }
 
