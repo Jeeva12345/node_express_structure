@@ -1,6 +1,6 @@
 const express = require("express");
 const cors = require("cors");
-
+console.log("llllll")
 const logger = require("./middleware/logger");
 const userRoutes = require("./routes/userRoutes");
 
